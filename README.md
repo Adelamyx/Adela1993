@@ -6,3 +6,10 @@
 
 ## 目录
 ### 1.学习[markdown](https://github.com/Adelamyx/Adela1993/blob/master/markdown/markdown.md)
+
+
+|学号|姓名|分数|                    
+|-|-|-|                 
+|小明|男|75|            
+|小红|女|79|                
+|小陆|男|92|  
