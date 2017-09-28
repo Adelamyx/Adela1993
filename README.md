@@ -20,8 +20,12 @@ This is [an example](http://example.com/ "Title") inline link
 ### 3.**列表**
 ```
 如果我们的内容需要进行标记，那么我们可以使用下面的方式：
+要注意的是星号* 后面要有一个空格。否则显示为普通星号
 1.+space （有序）
 *+space  （无序）
+
+此外还有二级圆点和三级圆点。就是多加一个Tab。
+第二行一个Tab，第三行两个Tab。这样用来表示层级结构就更清晰了吧
 ```
 1. 初步学习markdown
 2. 掌握markdown
@@ -30,6 +34,17 @@ This is [an example](http://example.com/ "Title") inline link
 * 初步学习markdown
 * 掌握markdown
 * 运用markdown
+
+* 学习材料         
+    * 数学      
+        * 数学课堂作业       
+        * 数学课后作业       
+    * 语文
+        * 语文笔记
+        * 语文资料
+* 娃娃
+    * 叮当猫 
+    * HelloKitty
  
 
 ### 4.**强调**
