@@ -20,16 +20,16 @@ This is [an example](http://example.com/ "Title") inline link
 ### 3.**列表**
 ```
 如果我们的内容需要进行标记，那么我们可以使用下面的方式：
-1.+space
-*.+space
+1.+space （有序）
+*+space  （无序）
 ```
 1. 初步学习markdown
 2. 掌握markdown
 3. 运用markdown
 
-*. 初步学习markdown
-*. 掌握markdown
-*. 运用markdown
+* 初步学习markdown
+* 掌握markdown
+* 运用markdown
  
 
 ### 4.**强调**
