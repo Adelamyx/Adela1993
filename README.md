@@ -31,7 +31,7 @@ This is [an example](http://example.com/ "Title") inline link
 接着一个方括号，里面放上图片的替代文字
 接着一个普通括号，里面放上图片的网址
 ```
-![叮当猫](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%8F%AE%E5%BD%93%E7%8C%AB&hs=2&pn=9&spn=0&di=72538575450&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&ie=utf-8&oe=utf-8&cl=2&lm=-1&cs=2752419313%2C1353938246&os=3070361721%2C1181820449&simid=3296009264%2C28180294&adpicid=0&lpn=0&ln=30&fr=ala&fm=&sme=&cg=&bdtype=0&oriquery=%E5%8F%AE%E5%BD%93%E7%8C%AB&objurl=http%3A%2F%2Fimgb.mumayi.com%2Fandroid%2Fimg_mumayi%2F2014%2F07%2F22%2F52%2F524639%2Fnologo%2Fnologo_pic_524639_23dbda.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B474wyt_z%26e3Bv54AzdH3Fwg165t1-cd9mnl_z%26e3Bip4s&gsm=0)
+![叮当猫](叮当猫.jpg)
 
 **标题**
 
