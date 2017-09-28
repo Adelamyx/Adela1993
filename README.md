@@ -1,13 +1,5 @@
 # Adela1993
-<<<<<<< HEAD
 
-echo "# Adela1993" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin git@github.com:Adelamyx/Adela1993.git
-git push -u origin master
-=======
 # markdown
 
 ### 1.**标题设置（让字体变大，和word的标题意思一样）**
@@ -44,4 +36,3 @@ This is [an example](http://example.com/ "Title") inline link
 **标题**
 
 迪士尼卡几点啦
->>>>>>> 20002d45986998a1778daf6a1ab2c7ef3f9e9ca0
