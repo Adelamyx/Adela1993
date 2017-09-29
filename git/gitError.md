@@ -8,14 +8,12 @@
 
 ## 正文
 
-### 1 ###
-### 给已经存在的项目添加Git
+### 1 ### 给已经存在的项目添加Git
 **本地存在.git删除并重新添加新的.git**
 ```
 查看本地
 ```
-### 2 ###
-### git查看当前路径所属manifest中的哪个project有两个命令
+### 2 ### git查看当前路径所属manifest中的哪个project有两个命令
 ### [rockly89的博客](http://blog.csdn.net/ly890700/article/details/52709255)
 ```
 1 git config -l  
