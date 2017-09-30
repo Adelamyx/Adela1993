@@ -25,7 +25,8 @@
 5、输入以下命令，添加远程仓库地址：
   输入：git remote add origin + 你的仓库地址
   例如：git remote add origin https://git.oschina.net/hhh/GitDemo​.git
-  如果出现fatal: remote origin already exists.​说明你已经添加过远程仓库了，输入以下命令删除远程仓库：git remote rm origin，然后再次执行第5步。
+  如果出现fatal: remote origin already exists.​说明你已经添加过远程仓库了，
+  输入以下命令删除远程仓库：git remote rm origin，然后再次执行第5步。
 6、​输入以下命令，把文件提交到远程仓库：
   git push -u origin master​
   然后你就等着它提交完成就完事了。

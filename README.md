@@ -6,3 +6,4 @@
 
 ## 目录
 ### 1.学习[markdown](https://github.com/Adelamyx/Adela1993/blob/master/markdown/markdown.md)
+### 2.学习[git](https://github.com/Adelamyx/Adela1993/tree/master/git)
